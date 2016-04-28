@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./initiaphilosoph03heusgoog_0051.png"; bbox 0 0 2618 4680; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 381 1682 1199 2018">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 381 1682 1199 2018">
+     <span class='ocr_line' id='line_1_1' title="bbox 466 1682 1197 1782; baseline -0.027 -17"><span class='ocrx_word' id='word_1_1' title='bbox 466 1695 536 1774; x_wconf 61' lang='lat' dir='ltr'><em>‚Ex</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 557 1695 616 1768; x_wconf 75' lang='lat' dir='ltr'><em>,hoc</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 634 1693 739 1782; x_wconf 70' lang='lat' dir='ltr'><em>igitur</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 766 1688 910 1757; x_wconf 82' lang='lat' dir='ltr'><em>Platonis</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 941 1688 1033 1773; x_wconf 77' lang='lat' dir='ltr'><em>quasi</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1065 1682 1197 1771; x_wconf 79' lang='lat' dir='ltr'><em>quodam</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 381 1816 1199 1910; baseline -0.02 -16"><span class='ocrx_word' id='word_1_7' title='bbox 381 1825 383 1829; x_wconf 68' lang='grc'>’</span> <span class='ocrx_word' id='word_1_8' title='bbox 437 1837 543 1896; x_wconf 70' lang='lat' dir='ltr'><em>sancto</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 574 1835 770 1910; x_wconf 73' lang='lat' dir='ltr'><em>augustoque</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 789 1818 908 1904; x_wconf 77' lang='lat' dir='ltr'><em>sonte,</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 951 1827 1060 1879; x_wconf 81' lang='lat' dir='ltr'><em>nostra</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1103 1816 1199 1878; x_wconf 81' lang='lat' dir='ltr'><em>omnis</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 436 1938 712 2018; baseline -0.007 -1"><span class='ocrx_word' id='word_1_13' title='bbox 436 1938 712 2018; x_wconf 63' lang='lat' dir='ltr'><em>manabit-oratio.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 907 2118 1068 2176">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 907 2118 1068 2176">
+     <span class='ocr_line' id='line_1_4' title="bbox 907 2118 1068 2176; baseline -0.025 0"><span class='ocrx_word' id='word_1_14' title='bbox 907 2118 1068 2176; x_wconf 74' lang='grc' dir='ltr'><em>(Ξιοεκο.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1314 4680">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1314 4680">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1314 4680; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1314 4680; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
